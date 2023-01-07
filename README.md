@@ -1,0 +1,2 @@
+# web-New-energy-vehicle-theme-website
+新能源汽车主题网站，使用html5和css3设计前台页面,javascript和jq作为主要的脚本语言,后台数据库则使用php和mysql语言进行数据的传送,以wampserver为后台服务端的个人独立开发设计的web网站 个人独立完成
